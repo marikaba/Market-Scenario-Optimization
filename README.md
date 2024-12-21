@@ -17,8 +17,6 @@ Moving Average Convergence Divergence (MACD) and its signal line to gauge moment
 
 Relative Strength Index (RSI) to measure overbought or oversold conditions.
 
-Average True Range (ATR) to assess market volatility.
-
 Bollinger Bands (BBANDS) to identify price deviations from the mean.
 
 Stochastic Oscillator (%K and %D) for detecting potential reversals.
@@ -27,7 +25,6 @@ Average Directional Index (ADX) and directional indicators (DI+ and DI-) to eval
 
 
 These indicators serve as the foundation for assessing bullish and bearish tendencies within the data, enabling the formulation of a comprehensive market condition classification system.
-
 
 ---
 
